@@ -5,7 +5,7 @@ Compilador:
 
 ---
 
-| Tipo | Tamanho aproximado em bits | Faixa mínima |
+| Tipo | memoria em bytes | Faixa mínima |
 |---|---|---|
 | char | 8 | -127 a 127 |
 | unsigned char | 8 |  0 a 255 |            
