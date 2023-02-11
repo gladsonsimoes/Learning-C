@@ -54,6 +54,10 @@ int main(void){
 } 
 ~~~
 
+
+
+<!-- Comentario 1
+ 
 Lembre-se de que você deve declarar todas as variáveis locais no início
 do bloco em que elas são definidas, antes de qualquer comando do programa.
 or exemplo, a função seguinte está tecnicamente incorreta e não será compilada
@@ -73,5 +77,5 @@ int j; // esta linha irá provocar um erro!
 j = 20
 }
 ~~~
-
+ -->
 
