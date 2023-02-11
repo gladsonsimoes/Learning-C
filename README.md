@@ -3,6 +3,8 @@ Compilador:
 
 watcom c++
 
+---
+
 Forma de declaração de variável:
 
 ~~~c
