@@ -7,6 +7,7 @@ Compilador:
 Caso queira Usar no VSCode:
 
 Extensão para VsCode: C/C++ Extension Pack , Code Runner
+<br>
 Compilador [mingw](https://sourceforge.net/projects/mingw//)
 
 ---
