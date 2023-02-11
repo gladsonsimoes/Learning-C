@@ -1,7 +1,7 @@
 
 Compilador:
 
-watcom c++
+[Open Watcom v2 C/C++ ](https://github.com/open-watcom/open-watcom-v2/);
 
 ---
 
