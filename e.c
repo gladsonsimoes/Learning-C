@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(void){
     int evento = 5 ;
     char corrida = ’C’;
