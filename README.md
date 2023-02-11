@@ -3,6 +3,8 @@ Compilador:
 
 [Open Watcom v2 C/C++ ](https://github.com/open-watcom/open-watcom-v2/);
 
+Extensão para VsCOde: C/C++ Extension Pack
+
 ---
 
 ## Variaveis 
