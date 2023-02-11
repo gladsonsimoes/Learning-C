@@ -9,7 +9,7 @@ Compilador:
 
 ### Em C temos os seguintes tipos bsicos de variáveis:
 
-| Tipo | Tamanho aproximado em bytes | Faixa mínima |
+| Tipo | bytes | Faixa mínima |
 |--- |--- |--- |
 | char | 8 | -127 a 127 |
 | int | 16 | -32.767 a 32.767 |
@@ -32,30 +32,25 @@ Compilador:
 | signed long int | 32 | o mesmo que long int |
 | unsigned long int | 32 | 0 a 4.294.967.295 |
 | long double | 80 | Dez dígitos de precisão |
-    
-                                          
-Exceto o void, os tipos de dados básicos podem ter vários modificadores prece-
-dendo-os. Um modificador é usado para alterar o significado de um tipo básico
-para adaptá-lo mais precisamente às necessidades de diversas situações. A lista
-de modificadores é mostrada aqui:
 
-
----
-
-Forma de declaração de variável:
+## Forma de declaração de variável:
 
 ~~~c
-tipo lista_de_variáveis;
+tipo nome_variavel;
 ~~~
 
-Aqui , tipo deve ser um tipo de dado válido em C mais quaisquer modificadores; e lista_de_variáveis pode consistir em um ou mais nomes de identificadores separados por vírgulas. Aqui estão algumas declarações:
+Os atributos podem ser inicializado , <b> com </b> ou <b> sem </b> a declaração do valor. 
 
 ~~~c
-int i, j, l;
-short int si;
-unsigned int ui;
-double balance, profit, loss;
-~~~
+#include <stdio.h>
 
-Lembre-se de que, em C, o nome de uma variável não tem nenhuma relação com seu tipo.
+int main(void){
+    int evento = 5 ;
+    char corrida = ’C’;
+    float tempo = 27.25;
+    printf("O tempo vitorioso na eliminat´oria %c",corrida);
+    printf("\nda competi¸c~ao %d foi %f.", evento, tempo);
+    return 1;
+} 
+~~~
 
