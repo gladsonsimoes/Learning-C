@@ -39,7 +39,7 @@ Compilador:
 tipo nome_variavel;
 ~~~
 
-Os atributos podem ser inicializado , <b> com </b> ou <b> sem </b> a declaração do valor. 
+Os atributos podem ser inicializado , <b> com </b> ou <b> sem </b> a <b> declaração do valor </b>. 
 
 ~~~c
 #include <stdio.h>
@@ -48,9 +48,30 @@ int main(void){
     int evento = 5 ;
     char corrida = ’C’;
     float tempo = 27.25;
-    printf("O tempo vitorioso na eliminat´oria %c",corrida);
+    printf("O tempo vitorioso na eliminatória %c",corrida);
     printf("\nda competi¸c~ao %d foi %f.", evento, tempo);
     return 1;
 } 
 ~~~
+
+Lembre-se de que você deve declarar todas as variáveis locais no início
+do bloco em que elas são definidas, antes de qualquer comando do programa.
+or exemplo, a função seguinte está tecnicamente incorreta e não será compilada
+a maioria dos compiladores.
+
+~~~c
+// Esta função está errada.
+                         
+void f(void)
+{
+int i;
+
+i = 10;
+
+int j; // esta linha irá provocar um erro!
+
+j = 20
+}
+~~~
+
 
