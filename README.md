@@ -30,7 +30,7 @@ Compilador usado: MIngw
 | float | 32 | Seis dígitos de precisão  |
 | double | 64 | Dez dígitos de precisão |
 
-
+<!-- 
 ### Temos algumas variações destes tipos, que são:
 
 | Var Type | bytes | Var Value |
@@ -46,6 +46,7 @@ Compilador usado: MIngw
 | signed long int | 32 | o mesmo que long int |
 | unsigned long int | 32 | 0 a 4.294.967.295 |
 | long double | 80 | Dez dígitos de precisão |
+-->
 
 ## Forma de declaração de variável:
 
