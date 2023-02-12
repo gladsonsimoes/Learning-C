@@ -5,10 +5,10 @@ int main()
 {
    int A, B;
 
-   printf("\nDigite o valor 1: \t");
+   printf("\nDigite o valor 1: ");
    scanf("%d" , A );
 
-   printf("\nDigite o valor 2: \t");
+   printf("\nDigite o valor 2: ");
    scanf("%d" , B);
 
    system("pause");
