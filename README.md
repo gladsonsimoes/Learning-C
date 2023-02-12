@@ -28,7 +28,7 @@ Compilador usado: MIngw
 
 ### Temos algumas variações destes tipos, que são:
 
-| Tipo | Tamanho aproximado em bytes | Faixa mínima |
+| Var Type | bytes | Var Value |
 |--- |--- |--- |
 | unsigned char | 8 |  0 a 255 |            
 | signed char | 8 | -127 a 127 |                                            
