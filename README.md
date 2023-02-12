@@ -18,7 +18,7 @@ Compilador usado: MIngw
 
 ### Em C temos os seguintes tipos bsicos de variáveis:
 
-| Tipo | bytes | Faixa mínima |
+| Var Type | bytes | Var Value |
 |--- |--- |--- |
 | char | 8 | -127 a 127 |
 | int | 16 | -32.767 a 32.767 |
