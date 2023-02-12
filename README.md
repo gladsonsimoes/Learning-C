@@ -1,14 +1,16 @@
 
-Compilador:
+Compiladores:
 
 [Open Watcom v2 C/C++ ](https://github.com/open-watcom/open-watcom-v2/);
+
+[Mingw](https://sourceforge.net/projects/mingw//)
 
 ---
 Caso queira Usar no VSCode:
 
-Extensão para VsCode: C/C++ Extension Pack , Code Runner
+Extensão para VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b>
 <br>
-Compilador [mingw](https://sourceforge.net/projects/mingw//)
+Compilador usado: MIngw
 
 ---
 
