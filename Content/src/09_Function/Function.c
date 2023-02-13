@@ -1,19 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-/*
-Primeiramente é para colocar a função , e deixar sempre a funcao main no final!
 
-Nome da função: multiplica
-recebe como parâmetos dois valores inteiros (N1,N2)
-objetivo: multiplicar os valores recebidos nos parâmetros.
-retorno: um parâmetro inteiro (res) contendo o resultado
-*/
-int multiplica(int N1, int N2) //multiplica recebe N1,N2 e retorna um int
-{
-  int resultado;
-  resultado = N1 * N2;
-  return(resultado); //retornando o valor para main
-}
 
 /******************* função principal (main) *********************/
 void main()
@@ -32,3 +19,17 @@ void main()
   getch();
 }
 
+
+/*
+Nome da função: multiplica
+recebe como parâmetos dois valores inteiros (N1,N2)
+objetivo: multiplicar os valores recebidos nos parâmetros.
+retorno: um parâmetro inteiro (res) contendo o resultado
+*/
+
+int multiplica(int N1, int N2) //multiplica recebe N1,N2 e retorna um int
+{
+  int resultado;
+  resultado = N1 * N2;
+  return(resultado); //retornando o valor para main
+}
