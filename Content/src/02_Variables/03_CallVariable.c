@@ -3,11 +3,6 @@
 
 void main()
 {
-    //variaveis com declaracao de valor!
-    char character = 'q';
-    int integer = 1;
-    float floatRealNumber = 11.2;
-    double doubleRealNumber = 88.9;
 
     //variaveis sem declaracao de valor!
     char character;
