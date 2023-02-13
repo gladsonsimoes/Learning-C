@@ -4,7 +4,8 @@
 void main()
 {
     int A = 5;
-    int i,vet[5];
+    int i;
+    int vet[5] = { 1 , 2 , 3 , 4 , 5 };
 
     for(i = 0 ; i < A ; i++){
         printf("\n Digite o %d valor inteiro \n" , &vet[i]);
