@@ -14,7 +14,7 @@
 
 Caso queira Usar no VSCode:
 
-Extensão para C no VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b>
+Extensão para C no VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b> e o compilador Mingw 
 <br>
 
 ---
