@@ -16,7 +16,7 @@ Extensão para C no VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b>
 
 ---
 
-## Variaveis 
+<!-- ## Variaveis 
 
 ### Em C temos os seguintes tipos bsicos de variáveis:
 
@@ -25,7 +25,7 @@ Extensão para C no VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b>
 | char | 8 | -127 a 127 |
 | int | 16 | -32.767 a 32.767 |
 | float | 32 | Seis dígitos de precisão  |
-| double | 64 | Dez dígitos de precisão |
+| double | 64 | Dez dígitos de precisão | -->
 
 <!-- 
 ### Temos algumas variações destes tipos, que são:
