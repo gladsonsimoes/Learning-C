@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 /*
+Primeiramente é para colocar a função , e deixar sempre a funcao main no final!
+
 Nome da função: multiplica
 recebe como parâmetos dois valores inteiros (N1,N2)
 objetivo: multiplicar os valores recebidos nos parâmetros.
