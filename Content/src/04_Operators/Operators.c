@@ -10,7 +10,9 @@ void main()
 
     printf("\n Numero do A: %d \n Numero do B: %d \n", A, B);
 
-    // soma
+    //Operador Aritmético
+
+    //soma
     X = A + B;
     printf("\n O resultado da soma: %d \n", X);
 
@@ -30,13 +32,44 @@ void main()
     X = A % B;
     printf("\n O resultado do Resto: %d \n", X);
 
+
+    //incremento e decremento
+
+    // incrementa (adicionar mais um)
+    B++; //ou ++B;
+    printf("\n increment B value: %d \n", B);
+
     // decrementar (tira mais um)
-    B--;
+    B--; //ou --B;
     printf("\n decrement B value: %d \n", B);
     
-    // incrementa (adicionar mais um)
-    B++;
-    printf("\n increment B value: %d \n", B);
+
+    //Operadores Relacionais
+    /*
+        > Maiorque
+        >= Maior que ou igual
+        < Menor que
+        <= Menor que ou igual 
+        == igual 
+        != diferente
+    */
+
+   //Operadores Lógicos
+   /* 
+        &&  And
+        !! OR
+        ! NOT 
+   */
+
+  //Operadores Bit a Bit
+  /* 
+     & AND
+     | OR
+     ^ OR (Excluivo (XOR))
+     ~ Complemento de um
+     >> Deslocamento à esquerda
+     << Deslocamento à direita
+  */
 
     system("pause");
 }
