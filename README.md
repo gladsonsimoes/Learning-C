@@ -11,9 +11,6 @@
 [Open Watcom v2 C/C++ ](https://github.com/open-watcom/open-watcom-v2/)
 
 ---
-
-Caso queira Usar no VSCode:
-
 Extensão para C no VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b> e o compilador Mingw 
 <br>
 
