@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
 
-
-/******************* função principal (main) *********************/
 void main()
 {
   int V1, V2, resultado;
