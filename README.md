@@ -3,7 +3,7 @@
 - <a href="Content/src/02_Variables/"> Variaveis </a><br>
 - <a href="Content/src/03_Scanf/Scanf.c"> Digitar no teclado </a><br>
 - <a href="Content/src/04_Operators/Operators.c"> Operadores </a><br>
-
+- <a href="Content/src/07_RepeatingLoop/"> Laço de Repetição </a><br>
 ### Compiladores Bons:
 
 [Mingw](https://sourceforge.net/projects/mingw//)
