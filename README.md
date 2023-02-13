@@ -1,5 +1,8 @@
-Conteúdo:
-
+Conteúdo: <br>
+- <a href="Content/src/01_Printf/"> Printf - Imprimir </a><br>
+- <a href="Content/src/02_Variables/"> Variaveis </a><br>
+- <a href="Content/src/03_Scanf/Scanf.c"> Scanf - input do teclado </a><br>
+- <a href="Content/src/04_Operators/Operators.c"> Operadores </a><br>
 
 <a href="Content/src">Codigos Iniciantes</a>
 
