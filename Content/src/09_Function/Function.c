@@ -17,17 +17,14 @@ void main()
   getch();
 }
 
+//Funcao Multiplica
 
-/*
-Nome da função: multiplica
-recebe como parâmetos dois valores inteiros (N1,N2)
-objetivo: multiplicar os valores recebidos nos parâmetros.
-retorno: um parâmetro inteiro (res) contendo o resultado
-*/
-
-int multiplica(int N1, int N2) //multiplica recebe N1,N2 e retorna um int
+int multiplica(int N1, int N2) //funcao multiplica recebe N1,N2 e retorna um int
 {
   int resultado;
   resultado = N1 * N2;
   return(resultado); //retornando o valor para main
 }
+
+
+
