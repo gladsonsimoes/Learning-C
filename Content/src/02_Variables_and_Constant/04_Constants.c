@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define constante5 5 //define é um tipo de constante para conversar diretamente com pré-processador
+#define constanteDefine 5 //define é um tipo de constante para conversar diretamente com pré-processador
 
 
 void main()
 {
-    printf( "Constante Define: %i \n", constante5 );
+    printf( "Constante Define: %i \n", constanteDefine );
 
     const int constante = 10;
     printf("Constante Const: %i \n" , constante);
