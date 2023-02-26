@@ -4,6 +4,7 @@
 - <a href="Content/src/03_Scanf/Scanf.c"> Digitar no teclado </a><br>
 - <a href="Content/src/04_Operators/Operators.c"> Operadores </a><br>
 - <a href="Content/src/05_DecisionStructure"> Estrutura de decisao </a><br>
+- <a href="Content/src/06_Vector"> Estrutura de decisao </a><br>
 - <a href="Content/src/07_RepeatingLoop/"> Laço de Repetição </a><br>
 ### Compiladores Bons:
 
