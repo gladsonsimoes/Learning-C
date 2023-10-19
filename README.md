@@ -10,7 +10,7 @@
 
 [Mingw](https://sourceforge.net/projects/mingw//)
 
-[Open Watcom v2 C/C++ ](https://github.com/open-watcom/open-watcom-v2/)
+[Open Watcom 1.9 C/C++ ](https://www.openwatcom.org/)
 
 ---
 Extensão para C no VsCode: <b> C/C++ Extension Pack </b> , <b> Code Runner </b> e o compilador Mingw 
