@@ -1,5 +1,5 @@
 ## Conteúdo: 
-- <a href="Content/src/01_Printf/"> Imprimir </a><br>
+- <a href="https://github.com/gladsonsimoes/Study-C/blob/main/Content/src/01_Printf_and_puts/HelloWorld.c"> Imprimir | PRINTF - PUTS  </a><br>
 - <a href="Content/src/02_Variables/"> Variaveis </a><br>
 - <a href="Content/src/03_Scanf/Scanf.c"> Digitar no teclado </a><br>
 - <a href="Content/src/04_Operators/Operators.c"> Operadores </a><br>
